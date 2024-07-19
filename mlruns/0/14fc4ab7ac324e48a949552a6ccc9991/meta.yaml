@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest_Disease_Classification/mlruns/0/14fc4ab7ac324e48a949552a6ccc9991/artifacts
+end_time: 1721297858726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14fc4ab7ac324e48a949552a6ccc9991
+run_name: useful-carp-294
+run_uuid: 14fc4ab7ac324e48a949552a6ccc9991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721297839712
+status: 3
+tags: []
+user_id: hp

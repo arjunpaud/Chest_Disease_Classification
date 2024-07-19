@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest_Disease_Classification/mlruns/0/fa3d09ce2b79481fabce4623041d3145/artifacts
+end_time: 1721374797972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa3d09ce2b79481fabce4623041d3145
+run_name: capable-vole-139
+run_uuid: fa3d09ce2b79481fabce4623041d3145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721374777995
+status: 3
+tags: []
+user_id: hp

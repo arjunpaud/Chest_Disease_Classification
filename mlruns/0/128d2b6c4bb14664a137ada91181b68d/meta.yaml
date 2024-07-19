@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest_Disease_Classification/mlruns/0/128d2b6c4bb14664a137ada91181b68d/artifacts
+end_time: 1721371719674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 128d2b6c4bb14664a137ada91181b68d
+run_name: gaudy-asp-23
+run_uuid: 128d2b6c4bb14664a137ada91181b68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721371709362
+status: 3
+tags: []
+user_id: hp

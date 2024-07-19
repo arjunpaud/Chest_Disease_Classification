@@ -27,7 +27,7 @@ class Training:
             interpolation="bilinear"
         )
         valid_datagenerator=tf.keras.preprocessing.image.ImageDataGenerator(
-            *datagenerator_kwargs
+            **datagenerator_kwargs
         )
 
         self.valid_generator=valid_datagenerator.flow_from_directory(

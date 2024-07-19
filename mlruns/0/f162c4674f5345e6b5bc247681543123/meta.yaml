@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Chest_Disease_Classification/mlruns/0/f162c4674f5345e6b5bc247681543123/artifacts
+end_time: 1721370666222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f162c4674f5345e6b5bc247681543123
+run_name: powerful-trout-474
+run_uuid: f162c4674f5345e6b5bc247681543123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721370649582
+status: 3
+tags: []
+user_id: hp
